@@ -1,0 +1,7 @@
+BASICUSER="xxx"
+BASICPWD="xxx"
+ADMINUSER="xxx"
+ADMINPWD="xxx"
+MONGOPORT"xxx"
+MONGOSERVERNAME="xxx" 
+DATAPATH="/home/xxx"
