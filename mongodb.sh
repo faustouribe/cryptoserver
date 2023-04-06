@@ -1,7 +1,7 @@
 #!/bin/bash -x
 source local
 docker run -d \
---name mongodb \
+--name $MONGOSERVERNAME \
 --network cryptonetwork \
 -v $MONGODBDATAPATH:/data/db \
 -p 27017:27017 \
